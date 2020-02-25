@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on 沫子酱技术博客</title>
+    <link>http://MrYaoYuWei.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on 沫子酱技术博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
+    <lastBuildDate>Tue, 24 Dec 2019 19:06:46 +0800</lastBuildDate>
+    
+	<atom:link href="http://MrYaoYuWei.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo搭建</title>
+      <link>http://MrYaoYuWei.github.io/post/hugo%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Tue, 24 Dec 2019 19:06:46 +0800</pubDate>
+      
+      <guid>http://MrYaoYuWei.github.io/post/hugo%E6%90%AD%E5%BB%BA/</guid>
+      <description>&lt;p&gt;How to build Hugo blog&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
